@@ -92,7 +92,7 @@ button:hover{
     transform:scale(1.05);
 }
 #fun-fact-display{
-    /* display: none; */
+     display: none; 
     margin: 20px;
     color: cadetblue;
     font: italic;
